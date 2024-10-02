@@ -172,8 +172,8 @@ h4 {
 @media (max-width: 576px) {
   /* Your styles here */
   .aboutme-img {
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
   }
   p {
     font-size: 13px;
