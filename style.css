@@ -193,7 +193,7 @@ h4 {
   .aboutme-content {
     margin-top: 25px;
   }
-  contactme-form .form-control
+  contactme-form,.form-control
   {
     font-size:10px;
 }
